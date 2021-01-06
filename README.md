@@ -22,6 +22,8 @@ If you want to create your project from a archetype, you DO NOT need to do this
 
 # containments
 ## taboolib-quick-start
+<details><summary> ... </summary>
+
 [:scroll:] Maven Archetype  
 [:page_facing_up:] [github.com/freeze-dolphin/taboolib-quickstart-archetype](https://github.com/freeze-dolphin/taboolib-quickstart-archetype "Project URL")  
 [:bookmark_tabs:] Creating from this archetype:  
@@ -31,3 +33,4 @@ If you want to create your project from a archetype, you DO NOT need to do this
   (Make sure that maven-archetype-plugin v2.x is used while generating, v3.x can not specify the repository url)
   2. Configure the properties for the project
   3. Start coding
+</details>
