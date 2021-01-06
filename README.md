@@ -8,7 +8,7 @@ For more information, please refer to the details in each second-level headings
 - [:scroll: - Project Type]  
 - [:page_facing_up: - Project URL]  
 - [:bookmark_tabs: - Usage]  
-- [:package: - Artificat Information]
+- [:package: - Artifact Information]
 
 **Maven Repo**
 ```xml
@@ -22,7 +22,7 @@ If you want to create your project from a archetype, you DO NOT need to do this
 
 # containments
 ## taboolib-quick-start
-<details><summary> ... </summary>
+<details><summary> Details </summary>
 
 [:scroll:] Maven Archetype  
 [:page_facing_up:] [github.com/freeze-dolphin/taboolib-quickstart-archetype](https://github.com/freeze-dolphin/taboolib-quickstart-archetype "Project URL")  
