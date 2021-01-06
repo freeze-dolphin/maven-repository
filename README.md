@@ -4,7 +4,7 @@ Self-built maven repository
 Notice that snapshots and releases will NOT be distinguished  
 For more information, please refer to the details in each second-level headings
 
-**Symbol interpretations**
+**Symbol Interpretations**
 - [:scroll: - Project Type]  
 - [:page_facing_up: - Project URL]  
 - [:bookmark_tabs: - Usage]  
