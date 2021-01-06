@@ -26,6 +26,6 @@ If you want to create your project from a archetype, you DO NOT need to do this
 [:package:] Creating from this archetype:  
 - You can easily use the "Add Archetype" feature provided by common java ides like Eclipse and IntelliJ to use this archetype
 - If you want to generate a project from this archetype in console or terminal: 
-  1. Run `mvn org.apache.maven.plugins:maven-archetype-plugin:2.4:generate -DarchetypeGroupId=io.freeze-dolphin.archetypes -DarchetypeArtifactId=taboolib-quickstart-archetype -DarchetypeVersion=1.1.0 -DarchetypeRepository=https://raw.github.com/freeze-dolphin/maven-repository/master/repository/` (Make sure that maven-archetype-plugin v2.x is using while generating, only 2.x can specify the repository url)
+  1. Run `mvn org.apache.maven.plugins:maven-archetype-plugin:2.4:generate -DarchetypeGroupId=io.freeze-dolphin.archetypes -DarchetypeArtifactId=taboolib-quickstart-archetype -DarchetypeVersion=1.1.0 -DarchetypeRepository=https://raw.github.com/freeze-dolphin/maven-repository/master/repository/` (Make sure that maven-archetype-plugin v2.x is used while generating, only 2.x can specify the repository url)
   2. Configure the properties for the project
   3. Start coding
