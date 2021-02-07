@@ -41,7 +41,9 @@ If you want to create your project from a archetype, you DO NOT need to do this
 
 ## cyan-core
 
-<details><summary>Details</summary>
+<details>
+    <summary>Details</summary>
+
 [:scroll:] Lib  
 [:page_facing_up:] [github.com/freeze-dolphin/CyanCore](https://github.com/freeze-dolphin/CyanCore "Project URL")  
 [:bookmark_tabs:] Adding as a dependency: 
