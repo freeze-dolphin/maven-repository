@@ -13,8 +13,6 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-
-		<github.global.server>github</github.global.server>
 	</properties>
 
 	<pluginRepositories>
@@ -81,31 +79,6 @@
 				<configuration>
 					<altDeploymentRepository>internal.repo::default::file:///${env.git_maven_repository}</altDeploymentRepository>
 				</configuration>
-			</plugin>
-			<plugin>
-				<groupId>com.github.github</groupId>
-				<artifactId>site-maven-plugin</artifactId>
-				<version>0.12</version>
-				<configuration>
-					<message>Maven artifacts for ${project.version}</message>
-					<noJekyll>true</noJekyll>
-					<outputDirectory>${env.git_maven_repository}</outputDirectory>
-					<branch>refs/heads/master</branch>
-					<merge>true</merge>
-					<includes>
-						<include>**/*</include>
-					</includes>
-					<repositoryName>maven-repository</repositoryName>
-					<repositoryOwner>freeze-dolphin</repositoryOwner>
-				</configuration>
-				<executions>
-					<execution>
-						<goals>
-							<goal>site</goal>
-						</goals>
-						<phase>deploy</phase>
-					</execution>
-				</executions>
 			</plugin>
 		</plugins>
 	</build>
