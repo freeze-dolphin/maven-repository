@@ -28,7 +28,7 @@ If you want to create your project from a archetype, you DO NOT need to do this
 
 [:scroll:] Maven Archetype  
 [:page_facing_up:] [github.com/freeze-dolphin/taboolib-quickstart-archetype](https://github.com/freeze-dolphin/taboolib-quickstart-archetype "Project URL")  
-[:bookmark_tabs:] Creating from this archetype:  
+[:bookmark_tabs:] Creating from this archetype: 
 
 - You can easily use the "Add Archetype" feature provided by common java ides like Eclipse and IntelliJ to use this archetype
 - If you want to generate a project from this archetype in console or terminal: 
