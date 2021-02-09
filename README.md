@@ -52,7 +52,7 @@ If you want to create your project from a archetype, you DO NOT need to do this
 <dependency>
 	<groupId>io.freeze-dolphin</groupId>
 	<artifactId>cyan-core</artifactId>
-	<version>1.0.0</version>
+	<version><!-- VERSION HERE --></version>
 	<scope>provided</scope>
 </dependency>
 ```
