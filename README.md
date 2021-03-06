@@ -71,7 +71,7 @@ As if you cannot have access to `raw.github.com` conveniently, you can use the f
 <dependency>
 	<groupId>io.freeze-dolphin</groupId>
 	<artifactId>cyan-core</artifactId>
-	<version>1.0.0</version>
+	<version><!-- VERSION HERE --></version>
 	<scope>provided</scope>
 </dependency>
 ```
