@@ -40,6 +40,7 @@ As if you cannot have access to `raw.github.com` conveniently, you can use the f
 ## taboolib-quick-start
 <details>
     <summary> Details </summary>
+
 [:scroll:] Maven Archetype
 
 [:page_facing_up:] [github.com/freeze-dolphin/taboolib-quickstart-archetype](https://github.com/freeze-dolphin/taboolib-quickstart-archetype "Project URL")
@@ -61,6 +62,7 @@ As if you cannot have access to `raw.github.com` conveniently, you can use the f
 
 <details>
     <summary>Details</summary>
+
 [:scroll:] Lib
 
 [:page_facing_up:] [github.com/freeze-dolphin/CyanCore](https://github.com/freeze-dolphin/CyanCore "Project URL")
